@@ -1,0 +1,5 @@
+# http域名和端口
+http.host.appgateway: https://appgateway-uat.lifekh.com
+http.host.boss: https://boss-uat.lifekh.com
+http.host.fileserver: https://fileserver-uat.lifekh.com
+fhds: ${usern}
